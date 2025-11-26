@@ -281,7 +281,6 @@ MIT License - see LICENSE file for details
 
 **Shaleen Swarup**
 - GitHub: [@shaleenswarup](https://github.com/shaleenswarup)
-- Email: shaleen@example.com
 
 ## Acknowledgments
 
